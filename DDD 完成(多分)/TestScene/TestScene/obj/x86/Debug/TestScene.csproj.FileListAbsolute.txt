@@ -1,0 +1,80 @@
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\bin\x86\Debug\Content\gameplay.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\G13A1283\TestScene バックアップ2\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene バックアップ2\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene バックアップ2\TestScene\TestScene\bin\x86\Debug\Content\gameplay.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene バックアップ2\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\G13A1283\TestScene バックアップ2\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\G13A1283\TestScene バックアップ2\TestScene\TestScene\obj\x86\Debug\TestScene.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\G13A1283\TestScene バックアップ2\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\G13A1283\TestScene バックアップ2\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\G13A1283\TestScene バックアップ2\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\G13A1283\TestScene 本物\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene 本物\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene 本物\TestScene\TestScene\bin\x86\Debug\Content\gameplay.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene 本物\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\G13A1283\TestScene 本物\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\G13A1283\TestScene 本物\TestScene\TestScene\obj\x86\Debug\TestScene.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\G13A1283\TestScene 本物\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\G13A1283\TestScene 本物\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\G13A1283\TestScene 本物\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\gameplay.xnb
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\Bullet16.xnb
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\Enemy64.xnb
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\Player64.xnb
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\obj\x86\Debug\TestScene.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\TestScene - コピー\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\obj\x86\Debug\TestScene.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\gameplay.xnb
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\Bullet16.xnb
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\Enemy64.xnb
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\Content\Player64.xnb
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\20130719\TestScene - コピー\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\bin\x86\Debug\Content\Bullet16.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\bin\x86\Debug\Content\Enemy64.xnb
+C:\Users\Gii\Desktop\G13A1283\TestScene\TestScene\TestScene\bin\x86\Debug\Content\Player64.xnb
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\bin\x86\Debug\Content\gameplay.xnb
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\bin\x86\Debug\Content\Bullet16.xnb
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\bin\x86\Debug\Content\Enemy64.xnb
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\bin\x86\Debug\Content\Player64.xnb
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\G13A1283\前期\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\ki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\TestScene.pdb

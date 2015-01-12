@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2013-11-22T13:59:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2013-11-08T14:22:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>takarabako.png</Source>
+      <Name>takarabako</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb</Output>
+      <Time>2013-11-28T21:27:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>takarabakoaku.png</Source>
+      <Name>takarabakoaku</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb</Output>
+      <Time>2013-11-28T21:35:06+09:00</Time>
+    </Item>
+    <Item>
+      <Source>goal.png</Source>
+      <Name>goal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb</Output>
+      <Time>2013-11-15T15:47:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>gameclear.png</Source>
+      <Name>gameclear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb</Output>
+      <Time>2013-11-15T15:22:30+09:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.png</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2013-11-15T15:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>title.png</Source>
+      <Name>title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\title.xnb</Output>
+      <Time>2013-11-29T00:13:52+09:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy1.png</Source>
+      <Name>enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb</Output>
+      <Time>2013-11-08T13:36:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy2.png</Source>
+      <Name>enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb</Output>
+      <Time>2013-11-08T13:35:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>kurayami.png</Source>
+      <Name>kurayami</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb</Output>
+      <Time>2013-11-22T13:40:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ものすごく苦労したピアノ.png</Source>
+      <Name>ものすごく苦労したピアノ</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb</Output>
+      <Time>2013-11-22T17:40:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>hako.png</Source>
+      <Name>hako</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb</Output>
+      <Time>2013-11-14T23:40:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>isu.png</Source>
+      <Name>isu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb</Output>
+      <Time>2013-11-14T23:41:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>isu2.png</Source>
+      <Name>isu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb</Output>
+      <Time>2013-11-14T23:42:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tubo.png</Source>
+      <Name>tubo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb</Output>
+      <Time>2013-11-14T23:43:06+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tukue.png</Source>
+      <Name>tukue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb</Output>
+      <Time>2013-11-14T23:43:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>tukue2.png</Source>
+      <Name>tukue2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb</Output>
+      <Time>2013-11-14T23:44:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>takarabakoki.png</Source>
+      <Name>takarabakoki</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\takarabakoki.xnb</Output>
+      <Time>2013-11-28T21:17:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy3.png</Source>
+      <Name>enemy3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\enemy3.xnb</Output>
+      <Time>2013-11-08T13:32:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>stafflol.png</Source>
+      <Name>stafflol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\stafflol.xnb</Output>
+      <Time>2013-11-22T14:55:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>gameplaybgm.mp3</Source>
+      <Name>gameplaybgm</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameplaybgm.xnb</Output>
+      <Extra>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameplaybgm.wma</Extra>
+      <Time>2013-11-29T10:27:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>gameoverse.wav</Source>
+      <Name>gameoverse</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameoverse.xnb</Output>
+      <Time>2011-02-24T15:51:04+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{76C744F5-F9D5-4F5A-8A58-1EDC8918E5A5}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestSceneContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-05-10T10:05:39.7217445+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

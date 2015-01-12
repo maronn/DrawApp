@@ -1,0 +1,355 @@
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\ki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\TestScene\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\Content\ki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　20131115\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\ki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\ki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版改造\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\ki.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+D:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+D:\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+D:\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+D:\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\ki.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\kag.csv
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb
+C:\Users\NEMU\Desktop\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\ki.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\Content\kag.csv
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+F:\DDDプロト　最新版\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+F:\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+F:\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+F:\DDDプロト　最新版\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\kag.csv
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定\TestScene\TestScene\bin\x86\Debug\Content\takarabakoki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\takarabakoki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\Content\kag.csv
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\takarabakoki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\Content\kag.csv
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDDプロト　最新版 衝突判定 統合完了 - コピー\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\takarabakoki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\Content\kag.csv
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131127\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\takarabakoki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\Content\kag.csv
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 統合完了　20131128\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\takarabakoki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\kag.csv
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\enemy3.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 作業中\TestScene\TestScene\bin\x86\Debug\Content\stafflol.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\takarabakoki.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\enemy3.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\stafflol.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\kag.csv
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameplaybgm.xnb
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameplaybgm.wma
+C:\Users\Gii\Desktop\日本工学院\金曜日チーム制作\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameoverse.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\bg.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\player.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\takarabako.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\takarabakoaku.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\goal.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameclear.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameover.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\title.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\enemy1.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\enemy2.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\kurayami.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\ものすごく苦労したピアノ.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\hako.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\isu.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\isu2.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\tubo.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\tukue.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\tukue2.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\takarabakoki.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\enemy3.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\stafflol.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameplaybgm.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameoverse.xnb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\gameplaybgm.wma
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\Content\kag.csv
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\TestScene.exe
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\bin\x86\Debug\TestScene.pdb
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\obj\x86\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\obj\x86\Debug\TestScene.exe
+C:\Users\user\Desktop\DDD 完成(多分)\TestScene\TestScene\obj\x86\Debug\TestScene.pdb
